@@ -5,7 +5,7 @@
 
 ## Passos
 - Login na plataforma Azure Machine Learning
-- Trial gratuíto de 30 dias
+- Trial gratuito de 30 dias
 - Configuração de Workspace
 - Uso de Automated ML conforme dados da referência da Azure
 - Criação do modelo de previsão com seus devidos pontos de extremidade (endpoints) configurados
